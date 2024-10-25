@@ -1,22 +1,64 @@
 [nobles-quick-check](https://boardgamegeek.com/thread/2222752/nobles-quick-check)
 
+>Can you use cards AND chips to buy nobles or just cards?
+
+It is clear in the rules that you can't use chips, and you don't buy a noble as an action, but rather receive it automatically at the end of your turn.
+
+>Why does anyone bother with nobles as they are all worth about 3 points which is no better than a mid-range 3 card?
+
+The noble visits you whether you like it or not.
+If you have enough cards, you are only visited by one noble on your turn, even if you qualify for more than one. If you qualify for more than one, you choose which one visits you.
+
 [splendor-rule-question](https://boardgamegeek.com/thread/1246614/splendor-rule-question)
+
+>You have the option of buying a card (cost of the card is 3 red gems).
+You already have 3 red cards in front of you and you also have 3 red gems. What should I pay?
+
+You pay nothing. If a player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
 
 [token-selection-is-broken](https://boardgamegeek.com/thread/2265467/token-selection-is-broken)
 
+>Can you discard tokens from the ones you just got or from the ones you already have? If the last is true, I think the game is broken because you do useless actions without progression.
+
+The rules say clearly that you can discard from any of the tokens you have including those you have just picked up. The game is not broken.
+
 [do-nobles-restock](https://boardgamegeek.com/thread/1182600/do-nobles-restock)
+
+>Once you have a noble visit do you replace the empty space similar to the way you replace in the card rows?
+
+No because The remaining tiles are removed from the game, and they will not be used during the game.
 
 [what-if-no-actions-are-possible](https://boardgamegeek.com/thread/1192043/what-if-no-actions-are-possible)
 
 [how-does-reserving-cards-make-splendor-a-better-ga](https://boardgamegeek.com/thread/2121107/how-does-reserving-cards-make-splendor-a-better-ga)
 
+>How does reserving cards make Splendor a better game?
+
+It gives you a little more control by allowing you to pick up quick buy without losing out on a longer term goal (because you previously reserved it).
+
 [pick-gem](https://boardgamegeek.com/thread/2634390/pick-gem)
+
+>If I cannot take 3 different gem color tokens because there are only 2 colors left, will I be allowed to take the other 2?
+
+Yes but to take 2 gems of a single color, you MUST be taking from a stack of at least 4, so that you leave at least 2 after you take them.
 
 [choosing-payment-with-gem-or-gold](https://boardgamegeek.com/thread/1440645/choosing-payment-with-gem-or-gold)
 
+>Which is better (choosing payment with gem or gold)?
+
+You can freely choose whether to pay with gem or a gold if you have both but sometimes, the app can just automatically pay with the right one.
+
 [2014-rulebook-and-2016-rulebook](https://boardgamegeek.com/thread/1984653/2014-rulebook-and-2016-rulebook)
 
+>Which set of rules is the official rules (2014 Rulebook or 2016 Rulebook)?
+
+The wording were changed, but the rules were not. Perhaps you can take the gold token the same way as 4 players game.
+
 [can-you-steal-nobles](https://boardgamegeek.com/thread/2582812/can-you-steal-nobles)
+
+>Can you steal nobles?
+
+Nobles cannot be stolen from other players.
 
 [resolving-a-missed-hand-limit](https://boardgamegeek.com/thread/3262363/resolving-a-missed-hand-limit)
 

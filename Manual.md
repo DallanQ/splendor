@@ -8,7 +8,7 @@ Shuffle the noble tiles and reveal as many of them as there are players plus one
 
 The remaining tiles are removed from the game; they will not be used during the game. Finally, place the tokens in 6 distinct piles (sort them by color) within reach of the players.
 
->image of four rows and five columns of cards with the first row containing noble tiles. The second row contains a blue card deck with three white circles at the bottom in it's first column and cards dealt from the blue deck in the other columns. The third row contains a yellow card deck with two white circles at the bottom in it's first column and cards dealt from the yellow deck in the other columns. The fourth row contain a green card deck with one white circle at the bottom in it's first column and cards dealt from the green deck in the other columns.
+>Image of four rows and five columns of cards with the first row containing noble tiles. The second row contains a blue card deck with three white circles at the bottom in its first column and cards dealt from the blue deck in the other columns. The third row contains a yellow card deck with two white circles at the bottom in its first column and cards dealt from the yellow deck in the other columns. The fourth row contains a green card deck with one white circle at the bottom in its first column and cards dealt from the green deck in the other columns.
 
 ### Game With 2 Or 3 Players (page 2)
 
@@ -32,7 +32,7 @@ The developments in hand are the cards which the players reserve throughout the 
 
 The player who purchases this card wins 4 prestige points. Owning this card allows the player to benefit from a blue bonus. To purchase this card, the player must spend 3 blue tokens, 3 black tokens, and 6 white tokens.
 
-> Image of 6 white tokens, 3 blue tokens, and 3 black tokens with an equal to sign pointing to the same number of tokens on a development card with 4 prestige points in the upper-left corner.
+> Image of 6 Diamond (white), 3 Sapphire (blue), and 3 Onyx (black) tokens with an equal to sign pointing to the same number of tokens on a development card with 4 prestige points in the upper-left corner.
 
 ## The noble tiles (page 3)
 
@@ -44,11 +44,11 @@ Receiving a noble isn't considered to be an action. Each noble tile is worth 3 p
 
 The player who acquires this noble's tile gains 3 prestige points. If a player has enough development cards to amass 3 blue bonuses, 3 green bonuses, and 3 white bonuses, then that player automatically receives a visit from that noble.
 
->images of 3 cards with green emeralds in the upper right corner, 3 cards with blue sapphires in the upper right corner, and 3 cards with white diamonds in the upper right corner, with an equal sign pointing to the same numbers of green, blue, and white bonuses on a noble card with 3 prestige points showing in the top left corner.
+>Images of 3 cards with green emeralds in the upper right corner, 3 cards with blue sapphires in the upper right corner, and 3 cards with white diamonds in the upper right corner, with an equal sign pointing to the same numbers of green, blue, and white bonuses on a noble card with 3 prestige points showing in the top left corner.
 
 ## GAME RULES (page 3)
 
-The youngest player begins. Play then proceeds clockwise. On their turn,  a player must choose to perform only one of the following four actions. 
+The youngest player begins. Play then proceeds clockwise. On their turn, a player must choose to perform only one of the following four actions. 
 - Take 3 gem tokens of different colors. 
 - Take 2 gem tokens of the same color. 
   This action is only possible if there are at least 4 tokens of the
@@ -69,7 +69,7 @@ player must be visible by all players at all times.
 
 ### Reserve a development card (page 3)
 
-To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle ; two circles ; three circles ) without showing it to the other players. 
+To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle ; two circles ; three circles) without showing it to the other players. 
 
 The reserved cards are kept in hand and cannot be discarded. Players may not have more than three reserved cards in hand, and the only way to get rid of a card is to buy it (see below). Reserving a card is also the only way to get a gold token (joker). If there is no gold left, you can still reserve a card, but you won't get any gold.
 
