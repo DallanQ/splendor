@@ -18,23 +18,19 @@ You pay nothing. If a player has enough development cards (and therefore bonuses
 
 [token-selection-is-broken](https://boardgamegeek.com/thread/2265467/token-selection-is-broken)
 
->Can you discard tokens from the ones you just got or from the ones you already have? If the last is true, I think the game is broken because you do useless actions without progression.
+> If you get new tokens and exceed the 10 token limit, can you discard tokens from the ones you just got or from the ones you already have?
 
-The rules say clearly that you can discard from any of the tokens you have including those you have just picked up. The game is not broken.
+The rules say clearly that you can discard from any of the tokens you have including those you have just picked up. 
 
 [do-nobles-restock](https://boardgamegeek.com/thread/1182600/do-nobles-restock)
 
 >Once you have a noble visit do you replace the empty space similar to the way you replace in the card rows?
 
-No because The remaining tiles are removed from the game, and they will not be used during the game.
+No. From the game setup rules section: "The remaining tiles are removed from the game; they will not be used during the game."
 
 [what-if-no-actions-are-possible](https://boardgamegeek.com/thread/1192043/what-if-no-actions-are-possible)
 
 [how-does-reserving-cards-make-splendor-a-better-ga](https://boardgamegeek.com/thread/2121107/how-does-reserving-cards-make-splendor-a-better-ga)
-
->How does reserving cards make Splendor a better game?
-
-It gives you a little more control by allowing you to pick up quick buy without losing out on a longer term goal (because you previously reserved it).
 
 [pick-gem](https://boardgamegeek.com/thread/2634390/pick-gem)
 
@@ -44,15 +40,11 @@ Yes but to take 2 gems of a single color, you MUST be taking from a stack of at 
 
 [choosing-payment-with-gem-or-gold](https://boardgamegeek.com/thread/1440645/choosing-payment-with-gem-or-gold)
 
->Which is better (choosing payment with gem or gold)?
+>When you need to pay a gem to buy a card, you can freely choose whether to pay the appropriately colored gem or a gold, if you have both. Is this right?
 
-You can freely choose whether to pay with gem or a gold if you have both but sometimes, the app can just automatically pay with the right one.
+You can freely choose whether to pay with gem or a gold if you have both.
 
 [2014-rulebook-and-2016-rulebook](https://boardgamegeek.com/thread/1984653/2014-rulebook-and-2016-rulebook)
-
->Which set of rules is the official rules (2014 Rulebook or 2016 Rulebook)?
-
-The wording were changed, but the rules were not. Perhaps you can take the gold token the same way as 4 players game.
 
 [can-you-steal-nobles](https://boardgamegeek.com/thread/2582812/can-you-steal-nobles)
 
