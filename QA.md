@@ -54,9 +54,17 @@ Nobles cannot be stolen from other players.
 
 [resolving-a-missed-hand-limit](https://boardgamegeek.com/thread/3262363/resolving-a-missed-hand-limit)
 
+>Suppose a player has more than ten tokens at the end of their turn, but nobody noticed. What rules can be used to resolve this when somebody does notice at a later point in time?
+
+Suppose its during a 4-player game. Player 1 takes too many tokens, and no one notices at the time. Players 2 and 3 take their turns. Then the error is discovered on Player 4's turn. Perhaps the excess tokens are returned. However, if that would have altered Player 2's and Player 3's turns because the tokens needed wasn't available at the time, you have to redo the last two turns Or allow Player 2, then Player 3, to exchange tokens (assuming they took tokens on their turns), based on the tokens that Player 1 just returned to fix the error.
+
 [resource-scaling-for-two-yellows-to-be-included](https://boardgamegeek.com/thread/1257079/resource-scaling-for-two-yellows-to-be-included)
 
 [do-we-replace-nobles](https://boardgamegeek.com/thread/2399859/do-we-replace-nobles)
+
+>Do we replace nobles on the table once they have visited a player?
+
+No. They are not replaced once taken by a player.
 
 [one-more-question-about-ruling-handling-10-plus-ch](https://boardgamegeek.com/thread/1840354/one-more-question-about-ruling-handling-10-plus-ch)
 
@@ -64,37 +72,90 @@ Nobles cannot be stolen from other players.
 
 [a-question-about-reserved-cardsgold-tokens](https://boardgamegeek.com/thread/2256617/a-question-about-reserved-cardsgold-tokens)
 
+>If I have already reserved 3 cards, can I take a gold token without reserving a card?
+
+No. Reserving a card is also the only way to get a gold token.
+
 [gold-coin](https://boardgamegeek.com/thread/2996202/gold-coin)
+
+>What do you do with gold coin after you reserve a card?
+
+It's important to keep the gold tokens together with your other tokens to ensure that you don't accidentally exceed the limit of ten tokens.
+However, you can spend it on any card purchase.
 
 [does-the-youngest-player-always-go-first](https://boardgamegeek.com/thread/1587194/does-the-youngest-player-always-go-first)
 
+>Does the youngest player always go first?
+
+From game rules, the youngest player begins
+
 [reserve-a-development-card](https://boardgamegeek.com/thread/2286411/reserve-a-development-card)
+
+>If i have enough token to buying the development card. Can i reserve the development card?
+
+Yes you can reserve it.
 
 [no-moves-possible](https://boardgamegeek.com/thread/1374686/no-moves-possible)
 
+>If i have 3 cards in my hand (reserved), and 10 gem tokens. Can i purchase additional card?
+
+Yes. You can exceed 10 gems as long as you are back down to 10 at the end of your turn.
+
 [the-10-gem-rule](https://boardgamegeek.com/thread/1291537/the-10-gem-rule)
+
+>If at the start of your turn, you have 10 gems. You decide to pick up a card and get a gold (wild) chip. Now that it's the end of your turn and you have 11 chips but are limited to 10. Would you discard another gem to keep the gold or would you not get the gold since you already have 10?
+
+The rules say you are allowed to discard a non-Gold chip at the end of your turn to get down to 10.
 
 [can-you-clarify-the-rules-when-only-single-color-t](https://boardgamegeek.com/thread/2557740/can-you-clarify-the-rules-when-only-single-color-t)
 
 [winner-or-maybe-not](https://boardgamegeek.com/thread/1469770/winner-or-maybe-not)
 
+>What if player 1 inadvertently gets the amount of mines to claim a noble favour but didn't notice it. And then player 2 purchase a mine and gets that noble. And then the player 1 notice that he could have gotten it long ago. Who that noble is?
+
+Everyone is responsible for his own game-play and If you fail to apply a rule that would have been beneficial to you, you're out of luck. That being said, Player 2 got the noble.
+
 [splendor](https://boardgamegeek.com/thread/2707937/splendor)
+
+>When being visited by a noble and you use 3 diamonds to procure that noble. Can you use those same 3 diamonds again for an additional noble or do you need to procure an additional three diamonds?
+
+You do not need an additional 3 diamonds. If you only have 3 diamond cards, you are able to get any noble that requires 3 diamond cards.
 
 [trading-in-tokens](https://boardgamegeek.com/thread/1307999/trading-in-tokens)
 
 [end-of-game-round-question](https://boardgamegeek.com/thread/1889891/end-of-game-round-question)
 
+>If we all played and finished the same round with the winning score being reached does the game end straight immediately or do we play another round?
+
+The game ends immediately.
+
 [how-to-buy-expensive-cards](https://boardgamegeek.com/thread/1198481/how-to-buy-expensive-cards)
+
+>How can you buy expensive cards especially those that need you to have more than 10 gems?
+
+You should first buy the lower cost cards that offer discounts. The gem on these cards count as gems for buying other cards. So after collecting several of the lower cost cards, you can use the gems on them as well as the poker chips to buy the more expensive cards.
 
 [question-about-reserving-card](https://boardgamegeek.com/thread/2055955/question-about-reserving-card)
 
 [taking-2-gems-of-one-color](https://boardgamegeek.com/thread/1146877/taking-2-gems-of-one-color)
 
+>Can i take 2 Gems of one color?
+
+The rules say, this action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
+
 [are-developed-cards-public-information](https://boardgamegeek.com/thread/1911339/are-developed-cards-public-information)
+
+>If a player purchases a mine. Are they required to keep those cards face up so other players may see their victory point totals and gems available to them?
+
+The rules say each player makes distinct rows with the acquired development cards by sorting them by color, and staggering them vertically so that their bonuses and prestige point values are visible.
 
 [question-about-phase](https://boardgamegeek.com/thread/2150756/question-about-phase)
 
 [drawing-cards](https://boardgamegeek.com/thread/1164043/drawing-cards)
+
+>After you reserve or purchase a card do you replace it with a new one from the appropriate stack?
+
+When a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.
 
 [blocked-with-10-chips](https://boardgamegeek.com/thread/2310042/blocked-with-10-chips)
 
