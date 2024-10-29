@@ -167,19 +167,44 @@ When a development card from the middle of the table is acquired or reserved, it
 
 [noble-visit](https://boardgamegeek.com/thread/1158657/noble-visit)
 
+>When you had a noble visit using the development cards, can the same development cards be used on another noble on your next go to claim a new visit?
+
+Yes, if your developments meet the requirements of a noble, they come to visit on your next turn.
+
 [reserving-card-on-last-turn](https://boardgamegeek.com/thread/1475972/reserving-card-on-last-turn)
 
 [print-error-in-official-italian-rules-book](https://boardgamegeek.com/thread/1239289/print-error-in-official-italian-rules-book)
 
 [4-player-rules-number-of-gems](https://boardgamegeek.com/thread/1550571/4-player-rules-number-of-gems)
 
+>What is the set up for a 4 player game?
+
+In the 3-player game, there are 2 tokens fewer of each gem than in the 4-player game (and an addition 1 fewer in the 2-player game). Perhaps since there are 4 each in the 2-player game, which removes 3 from what you have in the 4-player game, the 4-player game is thus played with 7 tokens for each gem.
+
 [can-you-pass](https://boardgamegeek.com/thread/1315391/can-you-pass)
 
+>if you're holding 10 gems (poker chips), can you pass your turn if the gem you would like to have isn't available in the supply?
+
+You may pass and actually do nothing only if (1) there are no gem tokens to take; (2) you have already reserved three development cards; (3) you cannot buy any of the development cards face-up on the table; and (4) you cannot buy any of three development cards that you have reserved.
+
+For #4, you must reveal your hand to the other players to prove that you cannot buy them. (You have to reveal only if you are passing.)
+
+If you have not reserved three development cards, you cannot pass, even if no gold tokens remain.
+
 [if-only-2-colors-of-gems-are-available](https://boardgamegeek.com/thread/1152126/if-only-2-colors-of-gems-are-available)
+
+>Let's say there's a stack of 4 black and 3 white, and that's all. Can I opt to take 1 black and 1 white, even if there is no third color available? Or am I obliged to instead take 2 black?
+
+In this case, take 2 different gems (or 2 of the same color if available).
 
 [why-would-anyone-refuse-a-noble](https://boardgamegeek.com/thread/1525496/why-would-anyone-refuse-a-noble)
 
 [splendor-newbie-question](https://boardgamegeek.com/thread/2909463/splendor-newbie-question)
+
+>I want to buy a card that costs 5 emeralds and I have 5 emerald cards and 2 emerald gems. However, do i have to use gems first and then cards?
+Or I can decide to keep however many gems I want?
+
+You can decide what to do. Perhaps considering that you cannot hold more than 10 gems from the end of one turn to the next, you can always get rid of any emerald gems that you feel are unneeded when you take 2 or 3 new gems from the supply.
 
 [scaling-of-actions](https://boardgamegeek.com/thread/1230752/scaling-of-actions)
 
@@ -189,9 +214,22 @@ When a development card from the middle of the table is acquired or reserved, it
 
 [what-if-you-avoid-a-visit-from-a-noble-if-no-one-n](https://boardgamegeek.com/thread/3092318/what-if-you-avoid-a-visit-from-a-noble-if-no-one-n)
 
+>What if you avoid a visit from a noble and no one notices. Is this considered as a cheating?
+
+Rules explicitly say you can't refuse a noble you've earned except of course  you earned two or possibly more on same turn. Perhaps you can't claim more than one per turn.
+
 [can-a-player-have-more-than-one-noble](https://boardgamegeek.com/thread/1352758/can-a-player-have-more-than-one-noble)
 
+>Can a player earn a noble on one turn, and earn a second noble on a subsequent turn?
+
+Yes, if they have the amount of bonuses required.
+
 [after-nobles-visit-do-they-return](https://boardgamegeek.com/thread/1596087/after-nobles-visit-do-they-return)
+
+>After the nobles visit, do they stay with that player permanently or return to where the cards are?
+
+The noble tiles do not return. However, the last sentence in the "The nobles" states "The tile obtained is placed face-up in front of the player in question."
+So each noble visits at most one of the players and then stays there, meaning that he/she cannot be obtained by another player meeting the requirements later.
 
 [running-out-of-development-cards](https://boardgamegeek.com/thread/1207522/running-out-of-development-cards)
 
@@ -199,17 +237,42 @@ When a development card from the middle of the table is acquired or reserved, it
 
 [taking-all-the-gems](https://boardgamegeek.com/thread/1388257/taking-all-the-gems)
 
+>When you buy a card, do you have to use the gem tokens first or can use the card bonus from other cards and keep the gems?
+
+Nope. You don't have to use the tokens at all if you have enough cards to cover the cost.
+
 [reserving-a-card-when-do-you-get-it](https://boardgamegeek.com/thread/1521246/reserving-a-card-when-do-you-get-it)
+
+>Can i get the reserve card as soon as I have the gem threshold  or Spend my next turn action to acquire the card?
+
+You have to spend a turn to buy it like any card. But only you can buy it.
 
 [tokens-drawing-two](https://boardgamegeek.com/thread/1293221/tokens-drawing-two)
 
 [show-chips-or-hide-them](https://boardgamegeek.com/thread/1273365/show-chips-or-hide-them)
 
+>Do you need to show your chips or can you hide them from other players?
+
+The game rules under selecting tokens says. "The tokens owned by a
+player must be visible by all players at all times."
+
 [purchasing-questions](https://boardgamegeek.com/thread/1182633/purchasing-questions)
+
+>A card cost two red and I have two red chips and three bonus cards in front of me. Am I required it spend the poker chips or can I purchase the card with the bonus gems?
+
+No you can always reserve a card as an action, or take more chips as well.
 
 [quick-q-about-gold](https://boardgamegeek.com/thread/1230994/quick-q-about-gold)
 
+>Is gold available during a 2 player and 3 player game?
+
+Gold is never removed for any amount of players, so is always used.
+
 [taking-more-than-10-gems-but-not-noticing-it-right](https://boardgamegeek.com/thread/1684973/taking-more-than-10-gems-but-not-noticing-it-right)
+
+>In a 3 player game, Player 1 took gems to put them at 12 gems total. None of us noticed it right away (we were tired). Player 2 took their turn, and then Player 3. We didn't notice Player 1 had more than 10 gems until the end of Player 3's turn (right before Player 1's next turn). what do we do?
+
+>The game rule under selecting tokens says "a player can never have more than 10 tokens at the end of their turn (including jokers)." Perhaps they must return tokens until they only have 10 left.
 
 [about-reserving-card](https://boardgamegeek.com/thread/1425461/about-reserving-card)
 
@@ -217,9 +280,23 @@ When a development card from the middle of the table is acquired or reserved, it
 
 [quick-question-regarding-end-of-the-game](https://boardgamegeek.com/thread/1373742/quick-question-regarding-end-of-the-game)
 
+>When a person gets to 15 or over does the game continue till the round is finished?
+
+At the end of the game, everyone should have had the same number of turns. 
+
 [rule-clarification-of-gems](https://boardgamegeek.com/thread/1782633/rule-clarification-of-gems)
 
+>If you have 8 or 9 in your hand at the start of your turn? Do you take 1-2 in order to get to 10, or you take 3 and get rid of 1 that you already had in your hand in order to stay at 10?
+
+The game rules say "A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return
+tokens until they only have 10 left. A player can return all or
+some of those they’ve just drawn."
+
 [tokens-or-bonuses-first](https://boardgamegeek.com/thread/1418104/tokens-or-bonuses-first)
+
+>Can tokens be used towards card purchases before card bonuses can be used?
+
+Bonuses are counted before the tokens.
 
 [bonuses-and-prestige-points](https://boardgamegeek.com/thread/2301384/bonuses-and-prestige-points)
 
