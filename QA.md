@@ -300,13 +300,34 @@ Bonuses are counted before the tokens.
 
 [bonuses-and-prestige-points](https://boardgamegeek.com/thread/2301384/bonuses-and-prestige-points)
 
+>Is it okay to multiply the prestige point of a card to the value of that gem type when applying the discount bonuses to buy development cards, or each card counts as a single unit in discount bonus??
+
+ You should not multiply like that.However, the prestige value has nothing to do with with using the card for a discount to buy other cards. Prestige is only used as victory points, at the end of the game.
+
 [one-player-blocked-the-game](https://boardgamegeek.com/thread/2050948/one-player-blocked-the-game)
 
+>How can we handle a situation when one of three players, ended up with 10 tokens and 3 reserved cards. He had 5 black tokens and the rest was of different colors. In addition, he had around 4 or 5 black cards. He could not buy anything and dispose any of his tokens since he had 10? 
+
+The game rules say "On their turn, a player must choose to perform only one of the following four actions.
+- Take 3 gem tokens of different colors.
+- Take 2 gem tokens of the same color.
+A player can never have more than 10 tokens at the end of their turn (including jokers)." However, If this happens, they must return tokens until they only have 10 left.
+
 [nobles](https://boardgamegeek.com/thread/1151419/nobles)
+
+>Can another player receive a visit from a noble that is already in front of a different player or later meet the criteria for a visit on a noble that was met by another player prior?
+
+No. The player that meets the criteria claims that noble. Nobles do not move around
 
 [15-point-end-of-game](https://boardgamegeek.com/thread/1149926/15-point-end-of-game)
 
 [in-hand-vs-in-play](https://boardgamegeek.com/thread/1182393/in-hand-vs-in-play)
+
+>Do reserved development cards remain secret in a player's hand?
+
+>Do reserved cards contribute gems toward purchases or the game ending total, or does that only happen when they are purchased?
+
+Reserved cards are secret and do not contribute to anything but your maximum hand size of 3 until you purchase them. Perhaps Whether you keep them in hand or put them face down on the table is not of relevance. Just keep them away from your owned cards.
 
 [resolution-of-taking-two-gems-rule](https://boardgamegeek.com/thread/1170662/resolution-of-taking-two-gems-rule)
 
@@ -316,19 +337,48 @@ Bonuses are counted before the tokens.
 
 [receiving-nobles-cards-plus-chips](https://boardgamegeek.com/thread/2922252/receiving-nobles-cards-plus-chips)
 
+>When meeting the requirement for a Noble. Is it the total of Coins + Cards, or just Cards?
+
+Just cards. The square shape of the icons on the nobles is a reminder of that.
+
 [who-wins](https://boardgamegeek.com/thread/1324493/who-wins)
+
+>If Player 1 goes first, and Player 2 eventually reaches 15 VP (with noble). Perhaps Player 1 immediately reaches 15 VP and Player 2 immediately reaches 18 VP (with noble).
+Would you allow Player 2 that last extra chance so that everyone had an equal number of turns?
+
+This is where the game ends. Player 1 does not get any extra turns. You just finish the round, all players get an equal number of turns, and that's it, because Player 1 started the round just ends after Player 2's turn.
 
 [nobles-in-the-rulebook](https://boardgamegeek.com/thread/2681667/nobles-in-the-rulebook)
 
 [10-coin-limit](https://boardgamegeek.com/thread/1794541/10-coin-limit)
 
+>If a player already has 10 coins, can the player take 3 more coins and return 3 previously had coins? Basically can the player swap coins?
+
+Yes. You can take 2 or 3 coins and return any coins until you have 10 again.
+
 [2-rules-need-help-with](https://boardgamegeek.com/thread/1567804/2-rules-need-help-with)
 
+>If you have coins (3 red) and cards (3 red) of the same color, do you have to use the coins to purchase other cards or can you use the cards.
+
+Yes, you can use cards to purchase other cards, even if you have the gems. Chances are you'll need the additional gems to purchase more expensive cards,
+
+>You have 15 points and cards in reserve, can you still win the game. Do all cards have to be paid for in order to win assuming you are not using points from reserve cards?
+
+Yes, you can still win the game. However, cards left in your hand do not count as negative points towards your total score, or even hinder your ability to win as soon as you have 15 points in front of you on the table, that's the final round started.
+
 [do-you-replace-the-nobles](https://boardgamegeek.com/thread/1589640/do-you-replace-the-nobles)
+
+>As players earn visits from nobles do you replace the noble cards or not?
+
+No. Page 2 setup says to put the remaining nobles back in the box. They are not used in this game.
 
 [jewel-hand-limit](https://boardgamegeek.com/thread/2912993/jewel-hand-limit)
 
 [splendor-noble-question](https://boardgamegeek.com/thread/2045660/splendor-noble-question)
+
+>Can you get a noble tile on the last turn of the game after another player has already gotten to 15?
+
+Yes and from the game rules in the nobles, it says "If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
 
 [discard-down-to-ten-chips-before-checking-for-nobl](https://boardgamegeek.com/thread/1176733/discard-down-to-ten-chips-before-checking-for-nobl)
 
@@ -336,13 +386,29 @@ Bonuses are counted before the tokens.
 
 [hoarding-gems](https://boardgamegeek.com/thread/1206288/hoarding-gems)
 
+>Can a player hoard all the gems of 1 color at one time?
+
+Yes as long as it is not more than 10
+
 [what-to-do-when-the-displayed-cards-are-incompatib](https://boardgamegeek.com/thread/1894762/what-to-do-when-the-displayed-cards-are-incompatib)
 
 [question-about-reserving-cards](https://boardgamegeek.com/thread/1323448/question-about-reserving-cards)
 
+>Is there  penalty point for having reserved cards in your hand at game end?
+
+There is no penalty
+
 [does-gold-count-towards-noble-visits](https://boardgamegeek.com/thread/1337574/does-gold-count-towards-noble-visits)
 
+>Do the gems in my hand count towards whats needed for a noble to visit, or only the actual gems?
+
+No gems count at all.
+
 [spending-goldjokerswild-instead-of-gems-you-alread](https://boardgamegeek.com/thread/2792365/spending-goldjokerswild-instead-of-gems-you-alread)
+
+>I have 4 blue gems and 3 gold. I want to place a 6 blue development and there are 0 blue gems available in the supply. Can I choose to pay as 3/3 or do I have to spend all 4 blue (meaning opponent could take 2 of the returned blue gems?).
+
+Rulebook page 3 says "To purchase a card, a player must spend the number of tokens indicated on the card. A joker token can replace any color. The spent tokens (including any jokers) are returned to the middle of the table."
 
 [8-gems-on-players-side-2-different-available](https://boardgamegeek.com/thread/1388893/8-gems-on-players-side-2-different-available)
 
@@ -352,21 +418,58 @@ Bonuses are counted before the tokens.
 
 [refusing-a-nobles-visit](https://boardgamegeek.com/thread/1147519/refusing-a-nobles-visit)
 
+>Can  player refuse a noble visit?
+
+The game rules in page 4 says it is impossible to refuse the visit from a noble, which is not considered to be an action.
+
 [can-you-take-two-gold-if-there-are-4-or-more](https://boardgamegeek.com/thread/3308658/can-you-take-two-gold-if-there-are-4-or-more)
+
+>Can you take two gold if there are 4 or more Or can you only gain gold by reserving cards?
+
+You can never take more than one gold on a turn. The only way to acquire gold chips is use the option of reserving a card and taking a single gold chip. A player can hold no more than 3 cards in reserve. Gold is not acquired by taking chips from the bank the way other colors are obtained.
 
 [splendor-10-chip-limit-returning-chips-question](https://boardgamegeek.com/thread/1155253/splendor-10-chip-limit-returning-chips-question)
 
+>Can you return for example, none of the 3 different coloured chips that you just picked up this turn and choose to return 3 other combinations of chips (eg 3 other different coloured chips or 3 of the same coloured chips or other combo) from your pile of chips as an option?
+
+You can return any tokens you want to get down to 10.
+The statement "A player can return all or some of those they’ve just drawn," is there just to emphasize that your are not constrained to returning tokens you had at the beginning of the turn.
+
+In particular, the following is allowed: you start a turn with 9 tokens, take one each of Emerald, Sapphire, and Ruby, and then return the Sapphire and Ruby.
+
+Maybe you really needed an Emerald - and wanted to keep the 9 tokens with which you started the turn. This is a legal way to get that Emerald.
+
 [are-reserved-cards-hidden](https://boardgamegeek.com/thread/1282556/are-reserved-cards-hidden)
+
+> Is it possible for cards reserved from the face-up cards become hidden in your hand?
+
+Cards you reserve are always hidden. They go right to your hand. Cards in hand are never shown.
 
 [ties](https://boardgamegeek.com/thread/1393218/ties)
 
+>Two people had 15 points and the same amount of development cards. One had two nobles and one had one. Who would win that, or would it be house rules?
+
+End of the game rules in page 4 says In case of a tie, the player who has purchased the fewest development cards wins.
+
 [rules-question-for-taking-gems](https://boardgamegeek.com/thread/1248416/rules-question-for-taking-gems)
+
+>if there are only two (or even one) colors of gem chips remaining, is "taking 3 chips" still a legal move? If so, do you simply take 1 of each chip that is available, but end up only actually obtaining 1 or 2 instead of the full 3?
+
+Yes, the chips are a limited resource so you would only take what is available, not forgetting that you can only take 2 of the same color if there are at least 4 there.
 
 [ran-out-of-chipsgems](https://boardgamegeek.com/thread/1181398/ran-out-of-chipsgems)
 
 [gold-token-selection](https://boardgamegeek.com/thread/1296974/gold-token-selection)
 
+>Am I able to choose Gold Jokers as my token selection when I take 2 of them same or 3 different tokens as my action? Or do I only get these when I take a card to hand?
+
+You get it only when you take a card to hand.
+
 [joker-single-use-or-multi-use](https://boardgamegeek.com/thread/2891080/joker-single-use-or-multi-use)
+
+>When you have a Joker (gold coin) in your possession and you want to use it to buy something, does the Joker go back to the house after you buy something, or can you just keep it and use it over and over?
+
+The spent tokens (including any jokers) are returned to the middle of the table.
 
 [is-it-possible-to-take-one-gold-without-reserving](https://boardgamegeek.com/thread/1809562/is-it-possible-to-take-one-gold-without-reserving)
 
