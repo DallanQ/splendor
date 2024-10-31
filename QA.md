@@ -473,3 +473,6 @@ The spent tokens (including any jokers) are returned to the middle of the table.
 
 [is-it-possible-to-take-one-gold-without-reserving](https://boardgamegeek.com/thread/1809562/is-it-possible-to-take-one-gold-without-reserving)
 
+>Is it possible to take one gold without reserving a card?
+
+The rules say that reserving a card is also the only way to get a gold token (joker).
