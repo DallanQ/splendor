@@ -65,7 +65,7 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times. 
 
-*Reminder:* players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.
+**Reminder:** *players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.*
 
 ### Reserve a development card (page 3)
 
@@ -82,7 +82,7 @@ A player may purchase one of the face-up development cards in the middle of the 
 
 Each player makes distinct rows with the acquired development cards by sorting them by color, and staggering them vertically so that their bonuses and prestige point values are visible.
 
-The bonuses and prestige points granted by each card must be visible to all at all times. (image of a boat sailing in a sea with number 2 written at the left top corner and Emerald at the right top corner)
+The bonuses and prestige points granted by each card must be visible to all at all times. (image of a boat sailing in a sea with number 2 written at the top left corner and an Emerald token at the right top corner)
 
 *Important: when a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.* 
 
