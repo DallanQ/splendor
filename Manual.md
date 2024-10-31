@@ -8,7 +8,7 @@ Shuffle the noble tiles and reveal as many of them as there are players plus one
 
 The remaining tiles are removed from the game; they will not be used during the game. Finally, place the tokens in 6 distinct piles (sort them by color) within reach of the players.
 
->Image of four rows and five columns of cards with the first row containing noble tiles. The second row contains a blue card deck with three white circles at the bottom in its first column and cards dealt from the blue deck in the other columns. The third row contains a yellow card deck with two white circles at the bottom in its first column and cards dealt from the yellow deck in the other columns. The fourth row contains a green card deck with one white circle at the bottom in its first column and cards dealt from the green deck in the other columns.
+>Image of four rows and five columns of cards with the first row containing noble tiles. The second row contains a blue card deck with three white circles at the bottom in its first column and cards dealt from the blue deck in the other columns. The third row contains a yellow card deck with two white circles at the bottom in its first column and cards dealt from the yellow deck in the other columns. The fourth row contains a green card deck with one white circle at the bottom in its first column and cards dealt from the green deck in the other columns. The tokens in color green, white, blue, black, red, yellow are placed in a distinct pile at the bottom of the table. 
 
 ### Game With 2 Or 3 Players (page 2)
 
