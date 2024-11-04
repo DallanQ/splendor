@@ -111,10 +111,6 @@ The rules say you are allowed to discard a non-Gold chip at the end of your turn
 
 [winner-or-maybe-not](https://boardgamegeek.com/thread/1469770/winner-or-maybe-not)
 
->What if player 1 inadvertently gets the amount of mines to claim a noble favour but didn't notice it. And then player 2 purchase a mine and gets that noble. And then the player 1 notice that he could have gotten it long ago. Who that noble is?
-
-Everyone is responsible for his own game-play and If you fail to apply a rule that would have been beneficial to you, you're out of luck. That being said, Player 2 got the noble.
-
 [splendor](https://boardgamegeek.com/thread/2707937/splendor)
 
 >When being visited by a noble and you use 3 diamonds to procure that noble. Can you use those same 3 diamonds again for an additional noble or do you need to procure an additional three diamonds?
