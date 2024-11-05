@@ -268,7 +268,7 @@ Gold is never removed for any amount of players, so is always used.
 
 >In a 3 player game, Player 1 took gems to put them at 12 gems total. None of us noticed it right away (we were tired). Player 2 took their turn, and then Player 3. We didn't notice Player 1 had more than 10 gems until the end of Player 3's turn (right before Player 1's next turn). what do we do?
 
->The game rule under selecting tokens says "a player can never have more than 10 tokens at the end of their turn (including jokers)." Perhaps they must return tokens until they only have 10 left.
+The game rule under selecting tokens says "a player can never have more than 10 tokens at the end of their turn (including jokers)." Perhaps they must return tokens until they only have 10 left.
 
 [about-reserving-card](https://boardgamegeek.com/thread/1425461/about-reserving-card)
 
