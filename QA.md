@@ -14,7 +14,7 @@ If you have enough cards, you are only visited by one noble on your turn, even i
 >You have the option of buying a card (cost of the card is 3 red gems).
 You already have 3 red cards in front of you and you also have 3 red gems. What should I pay?
 
-You pay nothing. If a player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
+You pay nothing. If a       player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
 
 [token-selection-is-broken](https://boardgamegeek.com/thread/2265467/token-selection-is-broken)
 
