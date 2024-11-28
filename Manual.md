@@ -51,8 +51,7 @@ The player who acquires this noble's tile gains 3 prestige points. If a player h
 The youngest player begins. Play then proceeds clockwise. On their turn, a player must choose to perform only one of the following four actions. 
 - Take 3 gem tokens of different colors. 
 - Take 2 gem tokens of the same color. 
-  This action is only possible if there are at least 4 tokens of the
-  chosen color left when the player takes them.
+  This action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
 - Reserve 1 development card and take 1 gold token (joker). 
 - Purchase 1 face-up development card from the middle of the 
   table or a previously reserved one.
