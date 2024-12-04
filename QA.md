@@ -60,10 +60,6 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times.
 
-[what-if-no-actions-are-possible](https://boardgamegeek.com/thread/1192043/what-if-no-actions-are-possible)
-
-[how-does-reserving-cards-make-splendor-a-better-ga](https://boardgamegeek.com/thread/2121107/how-does-reserving-cards-make-splendor-a-better-ga)
-
 [pick-gem](https://boardgamegeek.com/thread/2634390/pick-gem)
 
 >If I cannot take 3 different gem color tokens because there are only 2 colors left, will I be allowed to take the other 2?
@@ -81,12 +77,6 @@ Page 3
 
 Players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.
 
-[choosing-payment-with-gem-or-gold](https://boardgamegeek.com/thread/1440645/choosing-payment-with-gem-or-gold)
-
-[2014-rulebook-and-2016-rulebook](https://boardgamegeek.com/thread/1984653/2014-rulebook-and-2016-rulebook)
-
-[can-you-steal-nobles](https://boardgamegeek.com/thread/2582812/can-you-steal-nobles)
-
 [resolving-a-missed-hand-limit](https://boardgamegeek.com/thread/3262363/resolving-a-missed-hand-limit)
 
 >Suppose a player has more than ten tokens at the end of their turn, but nobody noticed. What rules can be used to resolve this when somebody does notice at a later point in time?
@@ -102,13 +92,17 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times. 
 
-[resource-scaling-for-two-yellows-to-be-included](https://boardgamegeek.com/thread/1257079/resource-scaling-for-two-yellows-to-be-included)
-
 [do-we-replace-nobles](https://boardgamegeek.com/thread/2399859/do-we-replace-nobles)
 
-[one-more-question-about-ruling-handling-10-plus-ch](https://boardgamegeek.com/thread/1840354/one-more-question-about-ruling-handling-10-plus-ch)
+> Do we replace nobles on the table once they have visited a player?
 
-[clarification-on-nobles](https://boardgamegeek.com/thread/1578463/clarification-on-nobles)
+No, they are not replaced once taken by a player
+
+----
+page 2 
+ 
+Shuffle the noble tiles and reveal as many of them as there are players plus one (example: 5 tiles for a 4 player game). 
+The remaining tiles are removed from the game; they will not be used during the game. 
 
 [a-question-about-reserved-cardsgold-tokens](https://boardgamegeek.com/thread/2256617/a-question-about-reserved-cardsgold-tokens)
 
@@ -149,17 +143,16 @@ Page 3
 
 The youngest player begins. Play then proceeds clockwise.
 
-
 [reserve-a-development-card](https://boardgamegeek.com/thread/2286411/reserve-a-development-card)
 
->If i have enough token to buying the development card. Can i reserve the development card?
+>If I have enough tokens to buy the development card. Can I reserve the development card?
 
-Yes you can reserve it.
+Yes, you can reserve it.
 
 ----
 Page 3
 
-To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle ; two circles ; three circles) without showing it to the other players. 
+To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle; two circles; three circles) without showing it to the other players. 
 
 ----
 Page 3
