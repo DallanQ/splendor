@@ -60,8 +60,6 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times.
 
-[do-nobles-restock](https://boardgamegeek.com/thread/1182600/do-nobles-restock)
-
 [what-if-no-actions-are-possible](https://boardgamegeek.com/thread/1192043/what-if-no-actions-are-possible)
 
 [how-does-reserving-cards-make-splendor-a-better-ga](https://boardgamegeek.com/thread/2121107/how-does-reserving-cards-make-splendor-a-better-ga)
@@ -321,6 +319,12 @@ Rules explicitly say you can't refuse a noble you've earned except of course  yo
 >Can a player earn a noble on one turn, and earn a second noble on a subsequent turn?
 
 Yes, if they have the amount of bonuses required.
+
+[do-nobles-restock](https://boardgamegeek.com/thread/1182600/do-nobles-restock)
+
+> Once you have a noble visit do you replace the empty space similar to the way you replace the card rows?
+
+No, the remaining tiles are removed from the game. They will not be used during the game. 
 
 [after-nobles-visit-do-they-return](https://boardgamegeek.com/thread/1596087/after-nobles-visit-do-they-return)
 
