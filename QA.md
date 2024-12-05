@@ -189,14 +189,6 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times.
 
-[can-you-clarify-the-rules-when-only-single-color-t](https://boardgamegeek.com/thread/2557740/can-you-clarify-the-rules-when-only-single-color-t)
-
-[winner-or-maybe-not](https://boardgamegeek.com/thread/1469770/winner-or-maybe-not)
-
-[splendor](https://boardgamegeek.com/thread/2707937/splendor)
-
-[trading-in-tokens](https://boardgamegeek.com/thread/1307999/trading-in-tokens)
-
 [end-of-game-round-question](https://boardgamegeek.com/thread/1889891/end-of-game-round-question)
 
 >If we all played and finished the same round with the winning score being reached does the game end straight immediately or do we play another round?
