@@ -60,6 +60,16 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times.
 
+[do-nobles-restock](https://boardgamegeek.com/thread/1182600/do-nobles-restock)
+
+> Once you have a noble visit do you replace the empty space similar to the way you replace the card rows?
+
+No, the remaining tiles are removed from the game. They will not be used during the game. 
+
+[what-if-no-actions-are-possible](https://boardgamegeek.com/thread/1192043/what-if-no-actions-are-possible)
+
+[how-does-reserving-cards-make-splendor-a-better-ga](https://boardgamegeek.com/thread/2121107/how-does-reserving-cards-make-splendor-a-better-ga)
+
 [pick-gem](https://boardgamegeek.com/thread/2634390/pick-gem)
 
 >If I cannot take 3 different gem color tokens because there are only 2 colors left, will I be allowed to take the other 2?
@@ -77,6 +87,12 @@ Page 3
 
 Players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.
 
+[choosing-payment-with-gem-or-gold](https://boardgamegeek.com/thread/1440645/choosing-payment-with-gem-or-gold)
+
+[2014-rulebook-and-2016-rulebook](https://boardgamegeek.com/thread/1984653/2014-rulebook-and-2016-rulebook)
+
+[can-you-steal-nobles](https://boardgamegeek.com/thread/2582812/can-you-steal-nobles)
+
 [resolving-a-missed-hand-limit](https://boardgamegeek.com/thread/3262363/resolving-a-missed-hand-limit)
 
 >Suppose a player has more than ten tokens at the end of their turn, but nobody noticed. What rules can be used to resolve this when somebody does notice at a later point in time?
@@ -92,6 +108,8 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times. 
 
+[resource-scaling-for-two-yellows-to-be-included](https://boardgamegeek.com/thread/1257079/resource-scaling-for-two-yellows-to-be-included)
+
 [do-we-replace-nobles](https://boardgamegeek.com/thread/2399859/do-we-replace-nobles)
 
 > Do we replace nobles on the table once they have visited a player?
@@ -100,9 +118,13 @@ No, they are not replaced once taken by a player
 
 ----
 page 2 
- 
+
 Shuffle the noble tiles and reveal as many of them as there are players plus one (example: 5 tiles for a 4 player game). 
 The remaining tiles are removed from the game; they will not be used during the game. 
+
+[one-more-question-about-ruling-handling-10-plus-ch](https://boardgamegeek.com/thread/1840354/one-more-question-about-ruling-handling-10-plus-ch)
+
+[clarification-on-nobles](https://boardgamegeek.com/thread/1578463/clarification-on-nobles)
 
 [a-question-about-reserved-cardsgold-tokens](https://boardgamegeek.com/thread/2256617/a-question-about-reserved-cardsgold-tokens)
 
@@ -143,9 +165,10 @@ Page 3
 
 The youngest player begins. Play then proceeds clockwise.
 
+
 [reserve-a-development-card](https://boardgamegeek.com/thread/2286411/reserve-a-development-card)
 
->If I have enough tokens to buy the development card. Can I reserve the development card?
+> If I have enough tokens to buy the development card. Can I reserve the development card?
 
 Yes, you can reserve it.
 
@@ -153,6 +176,8 @@ Yes, you can reserve it.
 Page 3
 
 To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle; two circles; three circles) without showing it to the other players. 
+
+----
 
 ----
 Page 3
@@ -189,6 +214,14 @@ tokens until they only have 10 left. A player can return all or
 some of those they've just drawn. The tokens owned by a 
 player must be visible by all players at all times.
 
+[can-you-clarify-the-rules-when-only-single-color-t](https://boardgamegeek.com/thread/2557740/can-you-clarify-the-rules-when-only-single-color-t)
+
+[winner-or-maybe-not](https://boardgamegeek.com/thread/1469770/winner-or-maybe-not)
+
+[splendor](https://boardgamegeek.com/thread/2707937/splendor)
+
+[trading-in-tokens](https://boardgamegeek.com/thread/1307999/trading-in-tokens)
+
 [end-of-game-round-question](https://boardgamegeek.com/thread/1889891/end-of-game-round-question)
 
 >If we all played and finished the same round with the winning score being reached does the game end straight immediately or do we play another round?
@@ -213,6 +246,12 @@ The player who then has the highest number of prestige points is declared the wi
 
 You should first buy the lower cost cards that offer discounts. The gem on these cards count as gems for buying other cards. So after collecting several of the lower cost cards, you can use the gems on them as well as the poker chips to buy the more expensive cards.
 
+[question-about-reserving-card](https://boardgamegeek.com/thread/2055955/question-about-reserving-card)
+
+> If there is no gold token after reserving a card, can I take other gem token as a replacement?
+
+The game rule under reserve a development card says "if there is no gold left, you can still reserve a card, but you won't get any gold.
+
 [taking-2-gems-of-one-color](https://boardgamegeek.com/thread/1146877/taking-2-gems-of-one-color)
 
 >Can i take 2 Gems of one color?
@@ -221,9 +260,13 @@ The rules say, this action is only possible if there are at least 4 tokens of th
 
 [are-developed-cards-public-information](https://boardgamegeek.com/thread/1911339/are-developed-cards-public-information)
 
+[are-developed-cards-public-information](https://boardgamegeek.com/thread/1911339/are-developed-cards-public-information)
+
 >If a player purchases a mine. Are they required to keep those cards face up so other players may see their victory point totals and gems available to them?
 
 The rules say each player makes distinct rows with the acquired development cards by sorting them by color, and staggering them vertically so that their bonuses and prestige point values are visible.
+
+[question-about-phase](https://boardgamegeek.com/thread/2150756/question-about-phase)
 
 [drawing-cards](https://boardgamegeek.com/thread/1164043/drawing-cards)
 
@@ -231,11 +274,24 @@ The rules say each player makes distinct rows with the acquired development card
 
 When a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.
 
+
+[blocked-with-10-chips](https://boardgamegeek.com/thread/2310042/blocked-with-10-chips)
+
+[no-moves](https://boardgamegeek.com/thread/1392119/no-moves)
+
+[reserve-cardplacement](https://boardgamegeek.com/thread/2397241/reserve-cardplacement)
+
+[splendor-purchases-on-table-face-up](https://boardgamegeek.com/thread/2445912/splendor-purchases-on-table-face-up)
+
 [noble-visit](https://boardgamegeek.com/thread/1158657/noble-visit)
 
 >When you had a noble visit using the development cards, can the same development cards be used on another noble on your next go to claim a new visit?
 
 Yes, if your developments meet the requirements of a noble, they come to visit on your next turn.
+
+[reserving-card-on-last-turn](https://boardgamegeek.com/thread/1475972/reserving-card-on-last-turn)
+
+[print-error-in-official-italian-rules-book](https://boardgamegeek.com/thread/1239289/print-error-in-official-italian-rules-book)
 
 [4-player-rules-number-of-gems](https://boardgamegeek.com/thread/1550571/4-player-rules-number-of-gems)
 
@@ -259,12 +315,20 @@ If you have not reserved three development cards, you cannot pass, even if no go
 
 In this case, take 2 different gems (or 2 of the same color if available).
 
+[why-would-anyone-refuse-a-noble](https://boardgamegeek.com/thread/1525496/why-would-anyone-refuse-a-noble)
+
 [splendor-newbie-question](https://boardgamegeek.com/thread/2909463/splendor-newbie-question)
 
 >I want to buy a card that costs 5 emeralds and I have 5 emerald cards and 2 emerald gems. However, do i have to use gems first and then cards?
 Or I can decide to keep however many gems I want?
 
 You can decide what to do. Perhaps considering that you cannot hold more than 10 gems from the end of one turn to the next, you can always get rid of any emerald gems that you feel are unneeded when you take 2 or 3 new gems from the supply.
+
+[scaling-of-actions](https://boardgamegeek.com/thread/1230752/scaling-of-actions)
+
+[a-few-debates-to-settle-goldnobles](https://boardgamegeek.com/thread/3029987/a-few-debates-to-settle-goldnobles)
+
+[korean-pokemon-rules-translated-to-english-with-go](https://boardgamegeek.com/thread/3210693/korean-pokemon-rules-translated-to-english-with-go)
 
 [what-if-you-avoid-a-visit-from-a-noble-if-no-one-n](https://boardgamegeek.com/thread/3092318/what-if-you-avoid-a-visit-from-a-noble-if-no-one-n)
 
@@ -278,18 +342,16 @@ Rules explicitly say you can't refuse a noble you've earned except of course  yo
 
 Yes, if they have the amount of bonuses required.
 
-[do-nobles-restock](https://boardgamegeek.com/thread/1182600/do-nobles-restock)
-
-> Once you have a noble visit do you replace the empty space similar to the way you replace the card rows?
-
-No, the remaining tiles are removed from the game. They will not be used during the game. 
-
 [after-nobles-visit-do-they-return](https://boardgamegeek.com/thread/1596087/after-nobles-visit-do-they-return)
 
 >After the nobles visit, do they stay with that player permanently or return to where the cards are?
 
 The noble tiles do not return. However, the last sentence in the "The nobles" states "The tile obtained is placed face-up in front of the player in question."
 So each noble visits at most one of the players and then stays there, meaning that he/she cannot be obtained by another player meeting the requirements later.
+
+[running-out-of-development-cards](https://boardgamegeek.com/thread/1207522/running-out-of-development-cards)
+
+[hiding-your-reserved-cards](https://boardgamegeek.com/thread/1308007/hiding-your-reserved-cards)
 
 [taking-all-the-gems](https://boardgamegeek.com/thread/1388257/taking-all-the-gems)
 
@@ -302,6 +364,8 @@ Nope. You don't have to use the tokens at all if you have enough cards to cover 
 >Can i get the reserve card as soon as I have the gem threshold  or Spend my next turn action to acquire the card?
 
 You have to spend a turn to buy it like any card. But only you can buy it.
+
+[tokens-drawing-two](https://boardgamegeek.com/thread/1293221/tokens-drawing-two)
 
 [show-chips-or-hide-them](https://boardgamegeek.com/thread/1273365/show-chips-or-hide-them)
 
@@ -327,11 +391,8 @@ Gold is never removed for any amount of players, so is always used.
 
 The game rule under selecting tokens says "a player can never have more than 10 tokens at the end of their turn (including jokers)." Perhaps they must return tokens until they only have 10 left.
 
+
 [about-reserving-card](https://boardgamegeek.com/thread/1425461/about-reserving-card)
-
-> If there is no gold token after reserving a card, can I take other gem token as a replacement?
-
-The game rule under reserve a development card says "if there is no gold left, you can still reserve a card, but you won't get any gold.
 
 [drawing-new-cards](https://boardgamegeek.com/thread/1180351/drawing-new-cards)
 
@@ -363,7 +424,7 @@ Bonuses are counted before the tokens.
 
 >Is it okay to multiply the prestige point of a card to the value of that gem type when applying the discount bonuses to buy development cards, or each card counts as a single unit in discount bonus??
 
-You should not multiply like that. However, the prestige value has nothing to do with with using the card for a discount to buy other cards. Prestige is only used as victory points, at the end of the game.
+You should not multiply like that.However, the prestige value has nothing to do with with using the card for a discount to buy other cards. Prestige is only used as victory points, at the end of the game.
 
 [one-player-blocked-the-game](https://boardgamegeek.com/thread/2050948/one-player-blocked-the-game)
 
@@ -380,6 +441,8 @@ A player can never have more than 10 tokens at the end of their turn (including 
 
 No. The player that meets the criteria claims that noble. Nobles do not move around.
 
+[15-point-end-of-game](https://boardgamegeek.com/thread/1149926/15-point-end-of-game)
+
 [in-hand-vs-in-play](https://boardgamegeek.com/thread/1182393/in-hand-vs-in-play)
 
 >Do reserved development cards remain secret in a player's hand?
@@ -387,6 +450,12 @@ No. The player that meets the criteria claims that noble. Nobles do not move aro
 >Do reserved cards contribute gems toward purchases or the game ending total, or does that only happen when they are purchased?
 
 Reserved cards are secret and do not contribute to anything but your maximum hand size of 3 until you purchase them. Perhaps Whether you keep them in hand or put them face down on the table is not of relevance. Just keep them away from your owned cards.
+
+[resolution-of-taking-two-gems-rule](https://boardgamegeek.com/thread/1170662/resolution-of-taking-two-gems-rule)
+
+[is-it-mandatory-to-take-an-action-every-turn](https://boardgamegeek.com/thread/1290964/is-it-mandatory-to-take-an-action-every-turn)
+
+[swapping-tokens](https://boardgamegeek.com/thread/2598187/swapping-tokens)
 
 [receiving-nobles-cards-plus-chips](https://boardgamegeek.com/thread/2922252/receiving-nobles-cards-plus-chips)
 
@@ -400,6 +469,8 @@ Just cards. The square shape of the icons on the nobles is a reminder of that.
 Would you allow Player 2 that last extra chance so that everyone had an equal number of turns?
 
 This is where the game ends. Player 1 does not get any extra turns. You just finish the round, all players get an equal number of turns, and that's it, because Player 1 started the round just ends after Player 2's turn.
+
+[nobles-in-the-rulebook](https://boardgamegeek.com/thread/2681667/nobles-in-the-rulebook)
 
 [10-coin-limit](https://boardgamegeek.com/thread/1794541/10-coin-limit)
 
@@ -423,11 +494,17 @@ Yes, you can still win the game. However, cards left in your hand do not count a
 
 No. Page 2 setup says to put the remaining nobles back in the box. They are not used in this game.
 
+[jewel-hand-limit](https://boardgamegeek.com/thread/2912993/jewel-hand-limit)
+
 [splendor-noble-question](https://boardgamegeek.com/thread/2045660/splendor-noble-question)
 
 >Can you get a noble tile on the last turn of the game after another player has already gotten to 15?
 
 Yes and from the game rules in the nobles, it says "If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
+
+[discard-down-to-ten-chips-before-checking-for-nobl](https://boardgamegeek.com/thread/1176733/discard-down-to-ten-chips-before-checking-for-nobl)
+
+[2-to-3-players-do-not-touch-the-gold-or-touching-t](https://boardgamegeek.com/thread/1814696/2-to-3-players-do-not-touch-the-gold-or-touching-t)
 
 [hoarding-gems](https://boardgamegeek.com/thread/1206288/hoarding-gems)
 
@@ -435,15 +512,17 @@ Yes and from the game rules in the nobles, it says "If a player has enough bonus
 
 Yes as long as it is not more than 10
 
+[what-to-do-when-the-displayed-cards-are-incompatib](https://boardgamegeek.com/thread/1894762/what-to-do-when-the-displayed-cards-are-incompatib)
+
 [question-about-reserving-cards](https://boardgamegeek.com/thread/1323448/question-about-reserving-cards)
 
->Is there penalty point for having reserved cards in your hand at game end?
+>Is there  penalty point for having reserved cards in your hand at game end?
 
 There is no penalty
 
 [does-gold-count-towards-noble-visits](https://boardgamegeek.com/thread/1337574/does-gold-count-towards-noble-visits)
 
->Do the wilds in my hand count towards whats needed for a noble to visit, or only the actual gems?
+>Do the gems in my hand count towards whats needed for a noble to visit, or only the actual gems?
 
 No gems count at all.
 
@@ -452,6 +531,12 @@ No gems count at all.
 >I have 4 blue gems and 3 gold. I want to place a 6 blue development and there are 0 blue gems available in the supply. Can I choose to pay as 3/3 or do I have to spend all 4 blue (meaning opponent could take 2 of the returned blue gems?).
 
 Rulebook page 3 says "To purchase a card, a player must spend the number of tokens indicated on the card. A joker token can replace any color. The spent tokens (including any jokers) are returned to the middle of the table."
+
+[8-gems-on-players-side-2-different-available](https://boardgamegeek.com/thread/1388893/8-gems-on-players-side-2-different-available)
+
+[more-than-one-noble-tile](https://boardgamegeek.com/thread/1530692/more-than-one-noble-tile)
+
+[tie-breaker-rule-seems-very-counter-intuitive-and](https://boardgamegeek.com/thread/2527560/tie-breaker-rule-seems-very-counter-intuitive-and)
 
 [refusing-a-nobles-visit](https://boardgamegeek.com/thread/1147519/refusing-a-nobles-visit)
 
@@ -493,6 +578,8 @@ End of the game rules in page 4 says In case of a tie, the player who has purcha
 >if there are only two (or even one) colors of gem chips remaining, is "taking 3 chips" still a legal move? If so, do you simply take 1 of each chip that is available, but end up only actually obtaining 1 or 2 instead of the full 3?
 
 Yes, the chips are a limited resource so you would only take what is available, not forgetting that you can only take 2 of the same color if there are at least 4 there.
+
+[ran-out-of-chipsgems](https://boardgamegeek.com/thread/1181398/ran-out-of-chipsgems)
 
 [gold-token-selection](https://boardgamegeek.com/thread/1296974/gold-token-selection)
 
