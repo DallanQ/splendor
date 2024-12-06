@@ -424,7 +424,7 @@ Bonuses are counted before the tokens.
 
 >Is it okay to multiply the prestige point of a card to the value of that gem type when applying the discount bonuses to buy development cards, or each card counts as a single unit in discount bonus??
 
-You should not multiply like that.However, the prestige value has nothing to do with with using the card for a discount to buy other cards. Prestige is only used as victory points, at the end of the game.
+You should not multiply like that. However, the prestige value has nothing to do with with using the card for a discount to buy other cards. Prestige is only used as victory points, at the end of the game.
 
 [one-player-blocked-the-game](https://boardgamegeek.com/thread/2050948/one-player-blocked-the-game)
 
