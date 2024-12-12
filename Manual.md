@@ -62,13 +62,13 @@ A player can never have more than 10 tokens at the end of
 their turn (including jokers). If this happens, they must return 
 tokens until they only have 10 left. A player can return all or 
 some of those they've just drawn. The tokens owned by a 
-player must be visible by all players at all times. 
+player must be visible by all players at all times.
 
 **Reminder:** *players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.*
 
 ### Reserve a development card (page 3)
 
-To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle ; two circles ; three circles) without showing it to the other players. 
+To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle ; two circles ; three circles) without showing it to the other players.
 
 The reserved cards are kept in hand and cannot be discarded. Players may not have more than three reserved cards in hand, and the only way to get rid of a card is to buy it (see below). Reserving a card is also the only way to get a gold token (joker). If there is no gold left, you can still reserve a card, but you won't get any gold.
 
@@ -103,7 +103,7 @@ At the end of their turn, each player checks the noble tiles in order to determi
 
 It is impossible to refuse the visit from a noble, which is not considered to be an action. 
 
-If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received. 
+If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
 
 The tile obtained is placed face-up in front of the player in question.
 

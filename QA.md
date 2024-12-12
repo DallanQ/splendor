@@ -79,8 +79,8 @@ Yes but to take 2 gems of a single color, you MUST be taking from a stack of at 
 ----
 Page 3
 
-- Take 2 gem tokens of the same color. 
-  This action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
+Take 2 gem tokens of the same color. 
+This action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
 
 ----
 Page 3
@@ -178,8 +178,6 @@ Page 3
 To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle; two circles; three circles) without showing it to the other players. 
 
 ----
-
-----
 Page 3
 
 *Important: when a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.* 
@@ -246,17 +244,37 @@ The player who then has the highest number of prestige points is declared the wi
 
 You should first buy the lower cost cards that offer discounts. The gem on these cards count as gems for buying other cards. So after collecting several of the lower cost cards, you can use the gems on them as well as the poker chips to buy the more expensive cards.
 
+----
+Page 4
+
+The bonuses a player has from development cards acquired on previous turns provide discounts on the purchase of new cards. Each bonus of a given color is equal to a token of that color. 
+
+Thus, if a player has 2 blue bonuses and wants to purchase a card which costs 2 blue tokens and 1 green token, the player must only spend 1 green token. 
+
+If a player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
+
 [question-about-reserving-card](https://boardgamegeek.com/thread/2055955/question-about-reserving-card)
 
 > If there is no gold token after reserving a card, can I take other gem token as a replacement?
 
 The game rule under reserve a development card says "if there is no gold left, you can still reserve a card, but you won't get any gold.
 
+----
+Page 3
+
+Reserving a card is also the only way to get a gold token (joker). If there is no gold left, you can still reserve a card, but you won't get any gold.
+
 [taking-2-gems-of-one-color](https://boardgamegeek.com/thread/1146877/taking-2-gems-of-one-color)
 
 >Can i take 2 Gems of one color?
 
 The rules say, this action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
+
+----
+Page 3
+
+Take 2 gem tokens of the same color. 
+This action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
 
 [are-developed-cards-public-information](https://boardgamegeek.com/thread/1911339/are-developed-cards-public-information)
 
@@ -266,14 +284,25 @@ The rules say, this action is only possible if there are at least 4 tokens of th
 
 The rules say each player makes distinct rows with the acquired development cards by sorting them by color, and staggering them vertically so that their bonuses and prestige point values are visible.
 
+----
+Page 3
+
+Each player makes distinct rows with the acquired development cards by sorting them by color, and staggering them vertically so that their bonuses and prestige point values are visible.
+
+The bonuses and prestige points granted by each card must be visible to all at all times.
+
 [question-about-phase](https://boardgamegeek.com/thread/2150756/question-about-phase)
 
 [drawing-cards](https://boardgamegeek.com/thread/1164043/drawing-cards)
 
->After you reserve or purchase a card do you replace it with a new one from the appropriate stack?
+>After you reserve or purchase a card, do you replace it with a new one from the appropriate stack?
 
 When a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.
 
+----
+Page 3
+
+when a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.
 
 [blocked-with-10-chips](https://boardgamegeek.com/thread/2310042/blocked-with-10-chips)
 
@@ -289,21 +318,26 @@ When a development card from the middle of the table is acquired or reserved, it
 
 Yes, if your developments meet the requirements of a noble, they come to visit on your next turn.
 
+----
+Page 3
+
+If a player has enough development cards to amass 3 blue bonuses, 3 green bonuses, and 3 white bonuses, then that player automatically receives a visit from that noble.
+
 [reserving-card-on-last-turn](https://boardgamegeek.com/thread/1475972/reserving-card-on-last-turn)
 
 [print-error-in-official-italian-rules-book](https://boardgamegeek.com/thread/1239289/print-error-in-official-italian-rules-book)
 
 [4-player-rules-number-of-gems](https://boardgamegeek.com/thread/1550571/4-player-rules-number-of-gems)
 
->What is the set up for a 4 player game?
-
-In the 3-player game, there are 2 tokens fewer of each gem than in the 4-player game (and an addition 1 fewer in the 2-player game). Perhaps since there are 4 each in the 2-player game, which removes 3 from what you have in the 4-player game, the 4-player game is thus played with 7 tokens for each gem.
-
 [can-you-pass](https://boardgamegeek.com/thread/1315391/can-you-pass)
 
->if you're holding 10 gems (poker chips), can you pass your turn if the gem you would like to have isn't available in the supply?
+>If you're holding 10 gems (poker chips), can you pass your turn if the gem you would like to have isn't available in the supply?
 
-You may pass and actually do nothing only if (1) there are no gem tokens to take; (2) you have already reserved three development cards; (3) you cannot buy any of the development cards face-up on the table; and (4) you cannot buy any of three development cards that you have reserved.
+You may pass and actually do nothing only if 
+1) there are no gem tokens to take; 
+2) you have already reserved three development cards; 
+3) you cannot buy any of the development cards face-up on the table; and 
+4) you cannot buy any of three development cards that you have reserved.
 
 For #4, you must reveal your hand to the other players to prove that you cannot buy them. (You have to reveal only if you are passing.)
 
@@ -313,7 +347,19 @@ If you have not reserved three development cards, you cannot pass, even if no go
 
 >Let's say there's a stack of 4 black and 3 white, and that's all. Can I opt to take 1 black and 1 white, even if there is no third color available? Or am I obliged to instead take 2 black?
 
-In this case, take 2 different gems (or 2 of the same color if available).
+In this case, take 3 different gems or 2 of the same color if available.
+
+----
+Page 3
+
+On their turn, a player must choose to perform only one of the following four actions. 
+- Take 3 gem tokens of different colors. 
+- Take 2 gem tokens of the same color.
+
+----
+page 3
+
+players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.
 
 [why-would-anyone-refuse-a-noble](https://boardgamegeek.com/thread/1525496/why-would-anyone-refuse-a-noble)
 
@@ -323,6 +369,12 @@ In this case, take 2 different gems (or 2 of the same color if available).
 Or I can decide to keep however many gems I want?
 
 You can decide what to do. Perhaps considering that you cannot hold more than 10 gems from the end of one turn to the next, you can always get rid of any emerald gems that you feel are unneeded when you take 2 or 3 new gems from the supply.
+
+----
+Page 3
+
+A player can never have more than 10 tokens at the end of 
+their turn (including jokers). If this happens, they must return tokens until they only have 10 left. A player can return all or some of those they've just drawn. The tokens owned by a player must be visible by all players at all times.
 
 [scaling-of-actions](https://boardgamegeek.com/thread/1230752/scaling-of-actions)
 
@@ -336,11 +388,31 @@ You can decide what to do. Perhaps considering that you cannot hold more than 10
 
 Rules explicitly say you can't refuse a noble you've earned except of course  you earned two or possibly more on same turn. Perhaps you can't claim more than one per turn.
 
+----
+Page 3
+
+A player cannot refuse a visit from a noble.
+
+----
+Page 4
+
+It is impossible to refuse the visit from a noble, which is not considered to be an action.
+
 [can-a-player-have-more-than-one-noble](https://boardgamegeek.com/thread/1352758/can-a-player-have-more-than-one-noble)
 
 >Can a player earn a noble on one turn, and earn a second noble on a subsequent turn?
 
 Yes, if they have the amount of bonuses required.
+
+----
+Page 3
+
+If a player has enough development cards to amass 3 blue bonuses, 3 green bonuses, and 3 white bonuses, then that player automatically receives a visit from that noble.
+
+----
+Page 4
+
+If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
 
 [after-nobles-visit-do-they-return](https://boardgamegeek.com/thread/1596087/after-nobles-visit-do-they-return)
 
@@ -348,6 +420,13 @@ Yes, if they have the amount of bonuses required.
 
 The noble tiles do not return. However, the last sentence in the "The nobles" states "The tile obtained is placed face-up in front of the player in question."
 So each noble visits at most one of the players and then stays there, meaning that he/she cannot be obtained by another player meeting the requirements later.
+
+----
+Page 4
+
+If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
+
+The tile obtained is placed face-up in front of the player in question.
 
 [running-out-of-development-cards](https://boardgamegeek.com/thread/1207522/running-out-of-development-cards)
 
@@ -359,11 +438,25 @@ So each noble visits at most one of the players and then stays there, meaning th
 
 Nope. You don't have to use the tokens at all if you have enough cards to cover the cost.
 
+----
+Page 4
+
+The bonuses a player has from development cards acquired on previous turns provide discounts on the purchase of new cards. Each bonus of a given color is equal to a token of that color. 
+
+Thus, if a player has 2 blue bonuses and wants to purchase a card which costs 2 blue tokens and 1 green token, the player must only spend 1 green token. 
+
+If a player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
+
 [reserving-a-card-when-do-you-get-it](https://boardgamegeek.com/thread/1521246/reserving-a-card-when-do-you-get-it)
 
->Can i get the reserve card as soon as I have the gem threshold  or Spend my next turn action to acquire the card?
+>Can i get the reserve card as soon as I have the gem threshold or Spend my next turn action to acquire the card?
 
 You have to spend a turn to buy it like any card. But only you can buy it.
+
+----
+Page 3
+
+To purchase a card, a player must spend the number of tokens indicated on the card.
 
 [tokens-drawing-two](https://boardgamegeek.com/thread/1293221/tokens-drawing-two)
 
@@ -373,17 +466,45 @@ You have to spend a turn to buy it like any card. But only you can buy it.
 
 The game rules under selecting tokens says. "The tokens owned by a player must be visible by all players at all times."
 
+----
+Page 3
+
+The tokens owned by a 
+player must be visible by all players at all times.
+
 [purchasing-questions](https://boardgamegeek.com/thread/1182633/purchasing-questions)
 
->A card cost two red and I have two red chips and three bonus cards in front of me. Am I required it spend the poker chips or can I purchase the card with the bonus gems?
+>A card cost two red and I have two red chips and three bonus cards in front of me. Am I required to spend the poker chips or can I purchase the card with the bonus gems?
 
 No you can always reserve a card as an action, or take more chips as well.
+
+----
+Page 4
+
+The bonuses a player has from development cards acquired on previous turns provide discounts on the purchase of new cards. Each bonus of a given color is equal to a token of that color. 
+
+Thus, if a player has 2 blue bonuses and wants to purchase a card which costs 2 blue tokens and 1 green token, the player must only spend 1 green token. 
+
+If a player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
+
 
 [quick-q-about-gold](https://boardgamegeek.com/thread/1230994/quick-q-about-gold)
 
 >Is gold available during a 2 player and 3 player game?
 
 Gold is never removed for any amount of players, so is always used.
+
+----
+Page 2
+
+Remove 3 tokens of each gem color (there should be only 4 of each remaining). Don't touch the gold. Reveal 3 noble tiles
+
+Remove 2 tokens of each gem color (there should be only 5 of each remaining). Don't touch the gold. Reveal 4 noble tiles.
+
+----
+Page 3
+
+During the game, the players take gem and gold tokens.
 
 [taking-more-than-10-gems-but-not-noticing-it-right](https://boardgamegeek.com/thread/1684973/taking-more-than-10-gems-but-not-noticing-it-right)
 
