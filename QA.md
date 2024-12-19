@@ -66,6 +66,13 @@ player must be visible by all players at all times.
 
 No, the remaining tiles are removed from the game. They will not be used during the game. 
 
+----
+Page 2 
+
+Shuffle the noble tiles and reveal as many of them as there are players plus one (example: 5 tiles for a 4 player game).
+
+The remaining tiles are removed from the game; they will not be used during the game. Finally, place the tokens in 6 distinct piles (sort them by color) within reach of the players.
+
 [what-if-no-actions-are-possible](https://boardgamegeek.com/thread/1192043/what-if-no-actions-are-possible)
 
 [how-does-reserving-cards-make-splendor-a-better-ga](https://boardgamegeek.com/thread/2121107/how-does-reserving-cards-make-splendor-a-better-ga)
@@ -512,20 +519,36 @@ During the game, the players take gem and gold tokens.
 
 The game rule under selecting tokens says "a player can never have more than 10 tokens at the end of their turn (including jokers)." Perhaps they must return tokens until they only have 10 left.
 
+----
+Page 3
+
+A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return tokens until they only have 10 left. A player can return all or some of those they've just drawn. The tokens owned by a player must be visible by all players at all times.
 
 [about-reserving-card](https://boardgamegeek.com/thread/1425461/about-reserving-card)
 
 [drawing-new-cards](https://boardgamegeek.com/thread/1180351/drawing-new-cards)
 
-> Do you draw a new card to replace those boght or reserved?
+> Do you draw a new card to replace those bought or reserved?
 
-Yes, you replace the card. The rule is in the yellow box on the back page: "Important: When a development card from the middle table is acquired of reserved, it must be replaced by a card of the same level."
+Yes, you replace the card. The rule is in the yellow box on the back page: "Important: When a development card from the middle table is acquired or reserved, it must be replaced by a card of the same level."
+
+----
+page 4
+
+When a development card from the middle of the table is acquired or reserved, it must immediately be replaced by a card of the same level.
 
 [quick-question-regarding-end-of-the-game](https://boardgamegeek.com/thread/1373742/quick-question-regarding-end-of-the-game)
 
 >When a person gets to 15 or over does the game continue till the round is finished?
 
 At the end of the game, everyone should have had the same number of turns.
+
+----
+Page 4
+
+When a player reaches 15 prestige points, complete the current round so that each player has played the same number of turns.
+
+The player who then has the highest number of prestige points is declared the winner (don't forget to count your nobles). In case of a tie, the player who has purchased the fewest development cards wins.
 
 [rule-clarification-of-gems](https://boardgamegeek.com/thread/1782633/rule-clarification-of-gems)
 
@@ -535,9 +558,14 @@ The game rules say "A player can never have more than 10 tokens at the end of th
 tokens until they only have 10 left. A player can return all or
 some of those they’ve just drawn."
 
+----
+Page 3
+
+A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return tokens until they only have 10 left. A player can return all or some of those they've just drawn. The tokens owned by a player must be visible by all players at all times.
+
 [tokens-or-bonuses-first](https://boardgamegeek.com/thread/1418104/tokens-or-bonuses-first)
 
->Can tokens be used towards card purchases before card bonuses can be used?
+> Can tokens be used towards card purchases before card bonuses can be used?
 
 Bonuses are counted before the tokens.
 
