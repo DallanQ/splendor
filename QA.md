@@ -695,6 +695,11 @@ Yes, you can still win the game. However, cards left in your hand do not count a
 
 No. Page 2 setup says to put the remaining nobles back in the box. They are not used in this game.
 
+----
+Page 2
+
+The remaining tiles are removed from the game; they will not be used during the game.
+
 [jewel-hand-limit](https://boardgamegeek.com/thread/2912993/jewel-hand-limit)
 
 [splendor-noble-question](https://boardgamegeek.com/thread/2045660/splendor-noble-question)
@@ -702,6 +707,11 @@ No. Page 2 setup says to put the remaining nobles back in the box. They are not 
 >Can you get a noble tile on the last turn of the game after another player has already gotten to 15?
 
 Yes and from the game rules in the nobles, it says "If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
+
+----
+Page 4 
+
+If a player has enough bonuses to be visited by more than one noble at the end of their turn, that player chooses the noble to be received.
 
 [discard-down-to-ten-chips-before-checking-for-nobl](https://boardgamegeek.com/thread/1176733/discard-down-to-ten-chips-before-checking-for-nobl)
 
@@ -712,6 +722,11 @@ Yes and from the game rules in the nobles, it says "If a player has enough bonus
 >Can a player hoard all the gems of 1 color at one time?
 
 Yes as long as it is not more than 10
+
+----
+Page 3
+
+A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return tokens until they only have 10 left.
 
 [what-to-do-when-the-displayed-cards-are-incompatib](https://boardgamegeek.com/thread/1894762/what-to-do-when-the-displayed-cards-are-incompatib)
 
@@ -727,11 +742,21 @@ There is no penalty
 
 No gems count at all.
 
+----
+Page 3
+
+At the end of their turn, a player automatically receives the visit from a noble if that player has the amount of bonuses (and only bonuses) required, and they get the corresponding tile.
+
 [spending-goldjokerswild-instead-of-gems-you-alread](https://boardgamegeek.com/thread/2792365/spending-goldjokerswild-instead-of-gems-you-alread)
 
 >I have 4 blue gems and 3 gold. I want to place a 6 blue development and there are 0 blue gems available in the supply. Can I choose to pay as 3/3 or do I have to spend all 4 blue (meaning opponent could take 2 of the returned blue gems?).
 
 Rulebook page 3 says "To purchase a card, a player must spend the number of tokens indicated on the card. A joker token can replace any color. The spent tokens (including any jokers) are returned to the middle of the table."
+
+----
+Page 3
+
+To purchase a card, a player must spend the number of tokens indicated on the card. A joker token can replace any color. The spent tokens (including any jokers) are returned to the middle of the table.
 
 [8-gems-on-players-side-2-different-available](https://boardgamegeek.com/thread/1388893/8-gems-on-players-side-2-different-available)
 
@@ -744,6 +769,11 @@ Rulebook page 3 says "To purchase a card, a player must spend the number of toke
 >Can a player refuse a noble visit?
 
 The game rules in page 4 says it is impossible to refuse the visit from a noble, which is not considered to be an action.
+
+----
+Page 4
+
+It is impossible to refuse the visit from a noble, which is not considered to be an action.
 
 [can-you-take-two-gold-if-there-are-4-or-more](https://boardgamegeek.com/thread/3308658/can-you-take-two-gold-if-there-are-4-or-more)
 
