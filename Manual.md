@@ -58,11 +58,7 @@ The youngest player begins. Play then proceeds clockwise. On their turn, a playe
 
 ### Selecting tokens (page 3)
 
-A player can never have more than 10 tokens at the end of 
-their turn (including jokers). If this happens, they must return 
-tokens until they only have 10 left. A player can return all or 
-some of those they've just drawn. The tokens owned by a 
-player must be visible by all players at all times.
+A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return tokens until they only have 10 left. A player can return all or some of those they've just drawn. The tokens owned by a player must be visible by all players at all times.
 
 **Reminder:** *players may not take 2 tokens of the same color if there are less than 4 tokens available of that color.*
 
