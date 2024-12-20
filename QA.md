@@ -569,6 +569,15 @@ A player can never have more than 10 tokens at the end of their turn (including 
 
 Bonuses are counted before the tokens.
 
+----
+Page 4
+
+The bonuses a player has from development cards acquired on previous turns provide discounts on the purchase of new cards. Each bonus of a given color is equal to a token of that color.
+
+Thus, if a player has 2 blue bonuses and wants to purchase a card which costs 2 blue tokens and 1 green token, the player must only spend 1 green token.
+
+If a player has enough development cards (and therefore bonuses), they can even purchase a card without spending any tokens.
+
 [bonuses-and-prestige-points](https://boardgamegeek.com/thread/2301384/bonuses-and-prestige-points)
 
 >Is it okay to multiply the prestige point of a card to the value of that gem type when applying the discount bonuses to buy development cards, or each card counts as a single unit in discount bonus??
@@ -584,11 +593,37 @@ The game rules say "On their turn, a player must choose to perform only one of t
 - Take 2 gem tokens of the same color.
 A player can never have more than 10 tokens at the end of their turn (including jokers)." However, If this happens, they must return tokens until they only have 10 left.
 
+----
+Page 3
+
+On their turn, a player must choose to perform only one of the following four actions. 
+- Take 3 gem tokens of different colors. 
+- Take 2 gem tokens of the same color. 
+  This action is only possible if there are at least 4 tokens of the chosen color left when the player takes them.
+- Reserve 1 development card and take 1 gold token (joker). 
+- Purchase 1 face-up development card from the middle of the 
+  table or a previously reserved one.
+
+----
+Page 3
+
+A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return tokens until they only have 10 left. A player can return all or some of those they've just drawn. The tokens owned by a player must be visible by all players at all times.
+
 [nobles](https://boardgamegeek.com/thread/1151419/nobles)
 
 >Can another player receive a visit from a noble that is already in front of a different player or later meet the criteria for a visit on a noble that was met by another player prior?
 
 No. The player that meets the criteria claims that noble. Nobles do not move around.
+
+----
+Page 3
+
+At the end of their turn, a player automatically receives the visit from a noble if that player has the amount of bonuses (and only bonuses) required, and they get the corresponding tile. 
+
+----
+Page 3
+
+The player who acquires this noble's tile gains 3 prestige points. If a player has enough development cards to amass 3 blue bonuses, 3 green bonuses, and 3 white bonuses, then that player automatically receives a visit from that noble.
 
 [15-point-end-of-game](https://boardgamegeek.com/thread/1149926/15-point-end-of-game)
 
@@ -599,6 +634,13 @@ No. The player that meets the criteria claims that noble. Nobles do not move aro
 >Do reserved cards contribute gems toward purchases or the game ending total, or does that only happen when they are purchased?
 
 Reserved cards are secret and do not contribute to anything but your maximum hand size of 3 until you purchase them. Perhaps Whether you keep them in hand or put them face down on the table is not of relevance. Just keep them away from your owned cards.
+
+----
+Page 3
+
+To reserve a card, a player simply needs to take a face-up development from the middle of the table or (if you're feeling lucky) draw the first card from one of the three decks (level one circle ; two circles ; three circles) without showing it to the other players.
+
+The reserved cards are kept in hand and cannot be discarded. Players may not have more than three reserved cards in hand, and the only way to get rid of a card is to buy it (see below).
 
 [resolution-of-taking-two-gems-rule](https://boardgamegeek.com/thread/1170662/resolution-of-taking-two-gems-rule)
 
@@ -611,6 +653,11 @@ Reserved cards are secret and do not contribute to anything but your maximum han
 >When meeting the requirement for a Noble. Is it the total of Coins + Cards, or just Cards?
 
 Just cards. The square shape of the icons on the nobles is a reminder of that.
+
+----
+Page 3
+
+The player who acquires this noble's tile gains 3 prestige points. If a player has enough development cards to amass 3 blue bonuses, 3 green bonuses, and 3 white bonuses, then that player automatically receives a visit from that noble.
 
 [who-wins](https://boardgamegeek.com/thread/1324493/who-wins)
 
@@ -626,6 +673,11 @@ This is where the game ends. Player 1 does not get any extra turns. You just fin
 >If a player already has 10 coins, can the player take 3 more coins and return 3 previously had coins? Basically can the player swap coins?
 
 Yes. You can take 2 or 3 coins and return any coins until you have 10 again.
+
+----
+Page 3
+
+A player can never have more than 10 tokens at the end of their turn (including jokers). If this happens, they must return tokens until they only have 10 left. A player can return all or some of those they've just drawn. The tokens owned by a player must be visible by all players at all times.
 
 [2-rules-need-help-with](https://boardgamegeek.com/thread/1567804/2-rules-need-help-with)
 
